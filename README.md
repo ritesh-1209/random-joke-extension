@@ -22,7 +22,7 @@ A clean and lightweight Chrome extension that fetches a random Chuck Norris joke
 ## 📸 Preview
 
 <p align="center">
-    <img src="preview.png" width="350" alt="Extension Preview">
+    <img src="ss.png" width="350" alt="Extension Preview">
 </p>
 
 ```
