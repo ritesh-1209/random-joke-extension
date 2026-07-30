@@ -21,7 +21,9 @@ A clean and lightweight Chrome extension that fetches a random Chuck Norris joke
 
 ## 📸 Preview
 
-> Add a screenshot of your extension here.
+<p align="center">
+    <img src="preview.png" width="350" alt="Extension Preview">
+</p>
 
 ```
 popup-preview.png
